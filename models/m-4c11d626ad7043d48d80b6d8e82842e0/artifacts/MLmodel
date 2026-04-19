@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/gayat/.gemini/antigravity/scratch/real_estate_advisor/mlruns/1/models/m-4c11d626ad7043d48d80b6d8e82842e0/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.7
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.11.1
+model_id: m-4c11d626ad7043d48d80b6d8e82842e0
+model_size_bytes: 82316
+model_uuid: m-4c11d626ad7043d48d80b6d8e82842e0
+prompts: null
+run_id: d159555d26334e5faeb8f08d450c9c2b
+utc_time_created: '2026-04-19 05:50:23.068521'

@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/gayat/.gemini/antigravity/scratch/real_estate_advisor/mlruns/1/models/m-c6c420b8bf014259bb55a610a2b6910a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-c6c420b8bf014259bb55a610a2b6910a
+model_size_bytes: 1222
+model_uuid: m-c6c420b8bf014259bb55a610a2b6910a
+prompts: null
+run_id: 4e6c6ecda0b74ac9a7b670b01e2be297
+utc_time_created: '2026-04-19 05:50:31.055928'
