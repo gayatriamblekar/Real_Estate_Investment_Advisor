@@ -8,7 +8,7 @@ This project simulates a real-world housing scenario in India and provides insig
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot 2026-04-20 154422.png" width="45%" />
+  <img src="Screenshots/Screenshot 2026-04-20 154422.png" width="45%" height = 50%/>
   <img src="Screenshots/Screenshot 2026-04-20 154515.png" width="45%" height =100%/>
 </p>
 
