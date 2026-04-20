@@ -9,7 +9,7 @@ Put this early—people look at visuals first.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="45%" />
+  <img src="Screenshots/Screenshot 2026-04-20 154422.png" width="45%" />
   <img src="screenshots/dashboard.png" width="45%" />
 </p>
 
