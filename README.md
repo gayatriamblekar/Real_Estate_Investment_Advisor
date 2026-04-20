@@ -9,7 +9,7 @@ This project simulates a real-world housing scenario in India and provides insig
 
 <p align="center">
   <img src="Screenshots/Screenshot 2026-04-20 154422.png" width="45%" />
-  <img src="Screenshots/Screenshot 2026-04-20 154515.png" width="45%" />
+  <img src="Screenshots/Screenshot 2026-04-20 154515.png" width="55%" />
 </p>
 
 <p align="center">
